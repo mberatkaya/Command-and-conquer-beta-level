@@ -1,0 +1,8 @@
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\kalıtım ödev\bin\Debug\kalıtım ödev.exe.config
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\kalıtım ödev\bin\Debug\kalıtım ödev.exe
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\kalıtım ödev\bin\Debug\kalıtım ödev.pdb
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\kalıtım ödev\obj\Debug\kalıtım ödev.csproj.AssemblyReference.cache
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\kalıtım ödev\obj\Debug\kalıtım ödev.csproj.SuggestedBindingRedirects.cache
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\kalıtım ödev\obj\Debug\kalıtım ödev.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\kalıtım ödev\obj\Debug\kalıtım ödev.exe
+C:\Users\MUSTAFA BERAT KAYA\source\repos\Csharp algoritma\kalıtım ödev\obj\Debug\kalıtım ödev.pdb
